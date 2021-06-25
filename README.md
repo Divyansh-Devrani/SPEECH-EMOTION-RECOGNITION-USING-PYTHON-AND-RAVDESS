@@ -1,0 +1,2 @@
+# SPEECH-EMOTION-RECOGNITION-USING-PYTHON-AND-RAVDESS
+SER(SPEECH EMOTION RECOGNITON) : It is a deep learning based project and with the help of this you can predict the emotions of a person using his/her speech(audio) for this I had used RAVDESS data set which contains voices of 24 Actors with different emotion we can download RAVDESS from [  https://www.kaggle.com/uwrfkaggler/ravdess-emotional-speech-audio   ] The code of this  project is written in Python . Hope you like it
